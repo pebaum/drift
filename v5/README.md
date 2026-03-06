@@ -68,3 +68,7 @@ Global tape processing applied to the mix:
 
 *Drift v5 - Generative Ambient*
 *December 2025*
+
+---
+
+Think this is cool and/or useful? [Buy me a coffee](https://ko-fi.com/plbaumgartner)

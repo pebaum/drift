@@ -310,3 +310,7 @@ December 2025
 ---
 
 *Let it play. Let it drift.*
+
+---
+
+Think this is cool and/or useful? [Buy me a coffee](https://ko-fi.com/plbaumgartner)

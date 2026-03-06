@@ -132,3 +132,7 @@ Like Eno's Music for Airports or Disasterpeace's Hyper Light Drifter soundtrack,
 *DRIFT v6 — STELLAR DEPARTURE*
 *January 2026*
 *A contemplative journey through generated sound*
+
+---
+
+Think this is cool and/or useful? [Buy me a coffee](https://ko-fi.com/plbaumgartner)

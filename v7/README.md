@@ -109,3 +109,7 @@ The terminal interface makes the system visible: you can see each loop's positio
 *EMERGENCE*
 *January 2026*
 *A living musical system*
+
+---
+
+Think this is cool and/or useful? [Buy me a coffee](https://ko-fi.com/plbaumgartner)
